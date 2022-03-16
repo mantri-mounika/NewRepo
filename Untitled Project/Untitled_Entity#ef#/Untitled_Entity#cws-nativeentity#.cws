@@ -472,7 +472,25 @@
 							id="8C164501-C564-A1EC-A919-2AF318E6F850"
 						/>
 					</BuildingBlock>
-					<DisplayName/>
+					<DisplayName>
+						<TranslatableText
+							type="com.cordys.translation.TranslatableText"
+							typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
+							RuntimeDocumentID="8C164501-C564-A1EC-A947-42BC9C10F850">
+							<DocumentID>8C164501-C564-A1EC-A947-42BC9C10B850</DocumentID>
+							<Name>8C164501-C564-A1EC-A947-42BC9C10B850</Name>
+							<Description>8C164501-C564-A1EC-A947-42BC9C10B850</Description>
+							<CreatedBy>sysadmin</CreatedBy>
+							<CreationDate>2022-03-16T11:35:33.756</CreationDate>
+							<Notes/>
+							<DeveloperText>Prop1</DeveloperText>
+							<Identifier>
+								<uri
+									id="8C164501-C564-A1EC-A947-42BC9C113850"
+								/>
+							</Identifier>
+						</TranslatableText>
+					</DisplayName>
 					<OwnedTypeDefinition>
 						<SmallTextPropertyDefinition
 							type="com.cordys.entity.core.typesystem.primitives.text.SmallTextPropertyDefinition"
