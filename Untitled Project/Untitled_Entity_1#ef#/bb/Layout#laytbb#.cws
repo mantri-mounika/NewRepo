@@ -1,19 +1,3 @@
-
-<LayoutBuildingBlock
-	xmlns:cws="http://schemas.cordys.com/cws/1.0"
-	type="com.cordys.entity.buildingblocks.layout.LayoutBuildingBlock"
-	typeVersion="DC978CBB-0A47-4BEE-846D-F1D35152083E"
-	RuntimeDocumentID="8C164501-C564-A1EC-A947-30BFB3523850">
-	<DocumentID>8C164501-C564-A1EC-A947-30BFB351F850</DocumentID>
-	<Name>Layout</Name>
-	<Description>Layout</Description>
-	<CreatedBy>sysadmin</CreatedBy>
-	<CreationDate>2022-03-16T11:34:41.082</CreationDate>
-	<Notes/>
-	<Entity>
-		<uri
-			id="8C164501-C564-A1EC-A947-30BFB3547850"
-		/>
-	</Entity>
-	<Layouts/>
-</LayoutBuildingBlock>
+version https://git-lfs.github.com/spec/v1
+oid sha256:dfa41c9789a81eb989f5c5d24f4ac25e7cb4ea906786f35f7118aa3c019187b1
+size 596

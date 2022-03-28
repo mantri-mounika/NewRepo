@@ -1,24 +1,3 @@
-
-<TextIdentifier
-	xmlns:cws="http://schemas.cordys.com/cws/1.0"
-	type="com.cordys.translation.TextIdentifier"
-	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
-	RuntimeDocumentID="8C164501-C564-A1EC-A919-2AF318E97850">
-	<DocumentID>8C164501-C564-A1EC-A919-2AF318E93850</DocumentID>
-	<Name>8C164501-C564-A1EC-A919-2AF318E93850</Name>
-	<Description>IsTemporaryCopy</Description>
-	<CreatedBy>sysadmin</CreatedBy>
-	<CreationDate>2022-03-15T13:34:58.288</CreationDate>
-	<Notes/>
-	<DefaultText>IsTemporaryCopy</DefaultText>
-	<TranslationInformation>
-		<uri
-			id="8C164501-C564-A1EC-A919-1E081827F850"
-		/>
-	</TranslationInformation>
-	<Translations>
-		<uri
-			id="8C164501-C564-A1EC-A919-2AF318E9B850"
-		/>
-	</Translations>
-</TextIdentifier>
+version https://git-lfs.github.com/spec/v1
+oid sha256:9c4a7cdb6e74976e85a39082bc336ebdc337d6e80eef02526b76dc408feae4c0
+size 762

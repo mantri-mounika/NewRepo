@@ -1,19 +1,3 @@
-
-<FormBuildingBlock
-	xmlns:cws="http://schemas.cordys.com/cws/1.0"
-	type="com.cordys.entity.buildingblocks.form.FormBuildingBlock"
-	typeVersion="B676A82B-2661-475F-B6D4-2DE9D084E191"
-	RuntimeDocumentID="8C164501-C564-A1EC-AA6D-F648D4B0B850">
-	<DocumentID>8C164501-C564-A1EC-AA6D-F648D4B07850</DocumentID>
-	<Name>Forms</Name>
-	<Description>Forms</Description>
-	<CreatedBy>sysadmin</CreatedBy>
-	<CreationDate>2022-03-22T10:36:38.234</CreationDate>
-	<Notes/>
-	<Entity>
-		<uri
-			id="8C164501-C564-A1EC-AA6D-F648D4B27850"
-		/>
-	</Entity>
-	<Forms/>
-</FormBuildingBlock>
+version https://git-lfs.github.com/spec/v1
+oid sha256:eb82daf5883fd87f0985c24a318d36292e45e1ab7ad4e1e896fd738b9444a1a7
+size 584

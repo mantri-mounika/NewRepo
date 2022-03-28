@@ -1,20 +1,3 @@
-
-<RuleBuildingBlock
-	xmlns:cws="http://schemas.cordys.com/cws/1.0"
-	type="com.cordys.entity.buildingblocks.rule.RuleBuildingBlock"
-	typeVersion="97F537DA-34AE-40AD-AFC4-48BC832037C3"
-	RuntimeDocumentID="8C164501-C564-A1EC-AA6D-F648D4ACB850">
-	<DocumentID>8C164501-C564-A1EC-AA6D-F648D4AC7850</DocumentID>
-	<Name>Rules</Name>
-	<Description>Rules</Description>
-	<CreatedBy>sysadmin</CreatedBy>
-	<CreationDate>2022-03-22T10:36:38.233</CreationDate>
-	<Notes/>
-	<Entity>
-		<uri
-			id="8C164501-C564-A1EC-AA6D-F648D4B27850"
-		/>
-	</Entity>
-	<OwnedActions/>
-	<Rules/>
-</RuleBuildingBlock>
+version https://git-lfs.github.com/spec/v1
+oid sha256:00cd3eeb9b5f6b23f8a3c090a500644e1e09c93ec9c76bfc57cb04ab8efba302
+size 602
